@@ -6,7 +6,7 @@
   <li>Breadth First Search(BFS)<br></li>
   <li>Dijkstra's Algorithm<br></li>
   <li>A* Algorithm<br></li>
-  <li>A* Jump Point Search Algorithm<br></li>
+  <li>Jump Point Search Algorithm<br></li>
 </ul>
 
 ## Instructions to Run<br>
